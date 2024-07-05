@@ -1,6 +1,3 @@
-Sure! Below is a sample `README.md` file for a decentralized exchange built with React, Solidity, and Truffle. This template covers installation, setup, and usage instructions.
-
----
 
 # Decentralized Exchange
 

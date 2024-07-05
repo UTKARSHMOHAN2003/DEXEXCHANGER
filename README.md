@@ -145,8 +145,4 @@ This will run the app in development mode. Open [http://localhost:3000](http://l
 
 Contributions are welcome! Please fork the repository and submit a pull request with your changes.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----

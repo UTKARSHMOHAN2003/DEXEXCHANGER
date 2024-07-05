@@ -50,7 +50,7 @@ Ensure you have the following installed:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/decentralized-exchange.git
+git clone https://github.com/UTKARSHMOHAN2003/decentralized-exchange.git
 cd decentralized-exchange
 ```
 
